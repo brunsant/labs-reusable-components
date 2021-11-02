@@ -1,0 +1,17 @@
+button {
+  padding: 15px 30px;
+  border-radius: 50px;
+  border: none;
+  background-color: #6a8595;
+  margin-left: 50%;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+button:hover {
+  background-color: #273f4b;
+}
+
+button:disabled {
+  background-color: #ccd3d9;
+}
